@@ -1,2 +1,3 @@
 # hello-world
-Hello Repository
+Hello all!
+Welcome to my repository.
